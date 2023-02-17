@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/soundpad/static/css/main.da7a8d55.css",
-    "main.js": "/soundpad/static/js/main.b2d8b060.js",
+    "main.js": "/soundpad/static/js/main.c4b98786.js",
     "static/js/787.9bd3e41f.chunk.js": "/soundpad/static/js/787.9bd3e41f.chunk.js",
     "static/media/logo.png": "/soundpad/static/media/logo.5376a588e666ea300aa8.png",
     "index.html": "/soundpad/index.html",
     "main.da7a8d55.css.map": "/soundpad/static/css/main.da7a8d55.css.map",
-    "main.b2d8b060.js.map": "/soundpad/static/js/main.b2d8b060.js.map",
+    "main.c4b98786.js.map": "/soundpad/static/js/main.c4b98786.js.map",
     "787.9bd3e41f.chunk.js.map": "/soundpad/static/js/787.9bd3e41f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da7a8d55.css",
-    "static/js/main.b2d8b060.js"
+    "static/js/main.c4b98786.js"
   ]
 }
